@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/hiteshmishra2103/wireviewfrontend1
+[submodule "server"]
+	path = server
+	url = https://github.com/hiteshmishra2103/wireviewserver
