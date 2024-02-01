@@ -64,6 +64,44 @@ Tools and Technologies used:
 * **[Mongoose](https://mongoosejs.com/)**
 * **[Bcryptjs](https://www.npmjs.com/package/bcryptjs)**
 * **[Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)**
+* 
+1. **[Next.js](https://nextjs.org/):**
+   - Next.js is a React-based web application framework that enables the creation of server-rendered and statically generated websites. It simplifies the development of React applications by providing features like automatic code splitting, server-side rendering, and a streamlined development experience.
+
+2. **[React](https://reactjs.org/):**
+   - React is a JavaScript library for building user interfaces. It allows developers to create reusable UI components and manage the state of an application efficiently. React is widely used for building interactive and dynamic web applications.
+
+3. **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript):**
+   - JavaScript is a programming language that enables the creation of dynamic, interactive, and client-side web applications. It is a fundamental technology for web development and runs in most web browsers.
+
+4. **[Recoiljs](https://recoiljs.org/):**
+   - Recoil is a state management library for React applications. It provides a simple and scalable solution for managing the state of your application, making it easy to share and update state across components.
+
+5. **[Tailwind CSS](https://tailwindcss.com/):**
+   - Tailwind CSS is a utility-first CSS framework that provides low-level utility classes to build designs directly in your markup. It enables rapid UI development and customization by composing classes to create styles.
+
+6. **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS):**
+   - Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in HTML. CSS allows developers to control the layout, style, and appearance of web pages.
+
+7.**[Cloudinary](https://cloudinary.com/):**
+   - Cloudinary is a cloud-based media management service that provides image and video storage, optimization, and delivery. It allows developers to easily manage and manipulate media assets in the cloud, providing functionalities like image transformation, resizing, and optimization.
+
+8.**[MongoDB](https://www.mongodb.com/):**
+   - MongoDB is a NoSQL database that stores data in a flexible, JSON-like format called BSON. It provides high performance, scalability, and is commonly used for building modern, data-intensive applications.
+
+9.**[Mongoose](https://mongoosejs.com/):**
+   - Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js. It provides a straightforward, schema-based solution to model application data, manage relationships, and perform database operations in a more organized manner.
+
+10.**[Node.js](https://nodejs.org/):**
+   - Node.js is a runtime environment that allows the execution of JavaScript code on the server-side. It is designed for building scalable and high-performance network applications, making it a popular choice for server-side development.
+
+11.**[bcryptjs](https://www.npmjs.com/package/bcryptjs):**
+   - Bcryptjs is a library for hashing passwords in Node.js applications. It uses the bcrypt hashing algorithm to securely store user passwords by transforming them into a fixed-length hash that is computationally expensive to reverse.
+
+12.**[jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken):**
+   - Jsonwebtoken is a Node.js library for creating and verifying JSON Web Tokens (JWT). JWTs are used for securely transmitting information between parties and are commonly employed for authentication and authorization in web applications.
+
+
 
 ## Installation
 
