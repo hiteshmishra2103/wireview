@@ -11,6 +11,54 @@ I deployed this website on Vercel for the frontend and Cyclic.sh for the server.
 
 The design is inspired by **[Shopify's Woodstock](https://themes.shopify.com/themes/woodstock/styles/light)** theme.
 
+## Installation
+
+<h3>Prerequisites</h3>
+
+Before you begin, make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+
+1. Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/hiteshmishra2103/wireview.git
+```
+2. Navigate to the project directory
+```bash 
+cd wireview
+```
+
+3. Run the command
+```bash
+git submodule update --init --recursive
+```
+### Frontend setup
+
+- Navigate to the frontend directory
+ ```bash
+cd frontend
+```
+
+Now for setting up the frontend on your local machine I have created the installation and setup guide.Checkout the link below👇
+https://github.com/hiteshmishra2103/wireviewfrontend1#installation
+
+
+###Server setup
+
+- - Navigate to the server directory
+ ```bash
+cd server
+```
+
+Now For setting up the server and API reference, checkout the following readme file👇
+https://github.com/hiteshmishra2103/wireviewserver/tree/4e3578ae05d025110a8fa776eaf3ff3fc933cfa8#installation
+
+
+##Features of the Wireview
+
 ### Payments with Stripe:
 I have used stripe for secure payments in my website.
 Say goodbye to payment hassles and enjoy smooth transactions every time.
@@ -86,40 +134,6 @@ Tools and Technologies used:
 
 12.**[jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken):**
    - Jsonwebtoken is a Node.js library for creating and verifying JSON Web Tokens (JWT). JWTs are used for securely transmitting information between parties and are commonly employed for authentication and authorization in web applications.
-
-
-
-## Installation
-
-<h3>Prerequisites</h3>
-
-Before you begin, make sure you have the following installed:
-
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
-- [MongoDB](https://www.mongodb.com/)
-
-1. Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/hiteshmishra2103/wireview.git
-```
-2. Navigate to the project directory
-```bash 
-cd wireview
-```
-
-3. Run the command
-```bash
-git submodule update --init --recursive
-```
-
-Now for setting up the frontend on your local machine I have created the installation and setup guide.Checkout the link below👇
-https://github.com/hiteshmishra2103/wireviewfrontend1#installation
-
-For setting up the server and API reference, checkout the following readme file👇
-https://github.com/hiteshmishra2103/wireviewserver/tree/4e3578ae05d025110a8fa776eaf3ff3fc933cfa8#installation
-
 
 
 <h1>Screenshots</h1>
