@@ -3,7 +3,13 @@
 ## Wireview: Online Shop for Local Goods
 
 Wireview is an ecommerce store that supports local businesses in showcasing and selling their products on the website, providing them with a valuable online presence. Currently,
-local businesses encounter challenges due to limited visibility on the internet for marketing their goods. Additionally, customers ordering from other websites often face significant delays in order processing which can be found in nearby stores. Wireview addresses these issues by streamlining the process, efficiently connecting customers with nearby stores, and thereby reducing the time needed to discover and successfully obtain products from the sellers. As of now, dummy products have been added to demonstrate the functionality of the store.
+local businesses encounter challenges due to **limited visibility** on the internet for marketing their goods. Additionally, customers ordering from other websites often face significant delays in order processing which can be found in nearby stores. Wireview addresses these issues by streamlining the process, efficiently connecting customers with nearby stores, and thereby reducing the time needed to discover and successfully obtain products from the sellers. 
+
+As of now, dummy products have been added to demonstrate the functionality of the store.
+
+I deployed this website on Vercel for the frontend and Cyclic.sh for the server. 
+
+The design is inspired by **[Shopify's Woodstock](https://themes.shopify.com/themes/woodstock/styles/light)** theme.
 
 ### Payments with Stripe:
 I have used stripe for secure payments in my website.
@@ -87,8 +93,9 @@ git submodule update --init --recursive
 Now for setting up the frontend on your local machine I have created the installation and setup guide.Checkout the link below👇
 https://github.com/hiteshmishra2103/wireviewfrontend1#installation
 
-For setting up the server, checkout the following readme file👇
+For setting up the server and API reference, checkout the following readme file👇
 https://github.com/hiteshmishra2103/wireviewserver/tree/4e3578ae05d025110a8fa776eaf3ff3fc933cfa8#installation
+
 
 
 
