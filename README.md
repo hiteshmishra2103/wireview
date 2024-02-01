@@ -46,9 +46,9 @@ Now for setting up the frontend on your local machine I have created the install
 https://github.com/hiteshmishra2103/wireviewfrontend1#installation
 
 
-###Server setup
+### Server setup
 
-- - Navigate to the server directory
+- Navigate to the server directory
  ```bash
 cd server
 ```
