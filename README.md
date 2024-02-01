@@ -2,62 +2,13 @@
 
 ## Wireview: Online Shop for Local Goods
 
-Wireview is an ecommerce store that supports local businesses in showcasing and selling their products on the website, providing them with a valuable online presence. Currently,
-local businesses encounter challenges due to **limited visibility** on the internet for marketing their goods. Additionally, customers ordering from other websites often face significant delays in order processing which can be found in nearby stores. Wireview addresses these issues by streamlining the process, efficiently connecting customers with nearby stores, and thereby reducing the time needed to discover and successfully obtain products from the sellers. 
+Wireview is an ecommerce store that is helpful for stores, shops which have less online visibility. I helps them by showcasing and selling their products on the website, providing them with a valuable online presence. Currently, local businesses encounter challenges due to **limited visibility** on the internet for marketing their goods. Additionally, customers ordering from other websites often face significant delays in order processing which can be found in nearby stores. Wireview addresses these issues by streamlining the process, efficiently connecting customers with nearby stores, and thereby reducing the time needed to discover and successfully obtain products from the sellers. 
 
 As of now, dummy products have been added to demonstrate the functionality of the store.
 
 I deployed this website on Vercel for the frontend and Cyclic.sh for the server. 
 
 The design is inspired by **[Shopify's Woodstock](https://themes.shopify.com/themes/woodstock/styles/light)** theme.
-
-## Installation
-
-<h3>Prerequisites</h3>
-
-Before you begin, make sure you have the following installed:
-
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
-- [MongoDB](https://www.mongodb.com/)
-
-1. Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/hiteshmishra2103/wireview.git
-```
-2. Navigate to the project directory
-```bash 
-cd wireview
-```
-
-3. Run the command
-```bash
-git submodule update --init --recursive
-```
-### Frontend setup
-
-- Navigate to the frontend directory
- ```bash
-cd frontend
-```
-
-Now for setting up the frontend on your local machine I have created the installation and setup guide.Checkout the link below👇
-https://github.com/hiteshmishra2103/wireviewfrontend1#installation
-
-
-### Server setup
-
-- Navigate to the server directory
- ```bash
-cd server
-```
-
-Now For setting up the server and API reference, checkout the following readme file👇
-https://github.com/hiteshmishra2103/wireviewserver/tree/4e3578ae05d025110a8fa776eaf3ff3fc933cfa8#installation
-
-
-##Features of the Wireview
 
 ### Payments with Stripe:
 I have used stripe for secure payments in my website.
@@ -99,41 +50,51 @@ Checkout whenever you're ready with a smooth and hassle-free process.
 
 Tools and Technologies used:
 
-1. **[Next.js](https://nextjs.org/):**
-   - Next.js is a React-based web application framework that enables the creation of server-rendered and statically generated websites. It simplifies the development of React applications by providing features like automatic code splitting, server-side rendering, and a streamlined development experience.
+* **[Next.js](https://nextjs.org/)**
+* **[React](https://reactjs.org/)**
+* **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
+* **[Recoiljs](https://recoiljs.org/)**
+* **[Tailwind CSS](https://tailwindcss.com/)**
+* **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)**
+* **[Cloudinary](https://cloudinary.com/)**
+* **[Nodejs](https://nodejs.org/)**
+* **[Expressjs](https://expressjs.com/)**
+* **[Monogdb](https://www.mongodb.com/)**
+* **[Mongoose](https://mongoosejs.com/)**
+* **[Bcryptjs](https://www.npmjs.com/package/bcryptjs)**
+* **[Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)**
 
-2. **[React](https://reactjs.org/):**
-   - React is a JavaScript library for building user interfaces. It allows developers to create reusable UI components and manage the state of an application efficiently. React is widely used for building interactive and dynamic web applications.
+## Installation
 
-3. **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript):**
-   - JavaScript is a programming language that enables the creation of dynamic, interactive, and client-side web applications. It is a fundamental technology for web development and runs in most web browsers.
+<h3>Prerequisites</h3>
 
-4. **[Recoiljs](https://recoiljs.org/):**
-   - Recoil is a state management library for React applications. It provides a simple and scalable solution for managing the state of your application, making it easy to share and update state across components.
+Before you begin, make sure you have the following installed:
 
-5. **[Tailwind CSS](https://tailwindcss.com/):**
-   - Tailwind CSS is a utility-first CSS framework that provides low-level utility classes to build designs directly in your markup. It enables rapid UI development and customization by composing classes to create styles.
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+- [MongoDB](https://www.mongodb.com/)
 
-6. **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS):**
-   - Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in HTML. CSS allows developers to control the layout, style, and appearance of web pages.
+1. Clone the repository to your local machine:
 
-7.**[Cloudinary](https://cloudinary.com/):**
-   - Cloudinary is a cloud-based media management service that provides image and video storage, optimization, and delivery. It allows developers to easily manage and manipulate media assets in the cloud, providing functionalities like image transformation, resizing, and optimization.
+```bash
+git clone https://github.com/hiteshmishra2103/wireview.git
+```
+2. Navigate to the project directory
+```bash 
+cd wireview
+```
 
-8.**[MongoDB](https://www.mongodb.com/):**
-   - MongoDB is a NoSQL database that stores data in a flexible, JSON-like format called BSON. It provides high performance, scalability, and is commonly used for building modern, data-intensive applications.
+3. Run the command
+```bash
+git submodule update --init --recursive
+```
 
-9.**[Mongoose](https://mongoosejs.com/):**
-   - Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js. It provides a straightforward, schema-based solution to model application data, manage relationships, and perform database operations in a more organized manner.
+Now for setting up the frontend on your local machine I have created the installation and setup guide.Checkout the link below👇
+https://github.com/hiteshmishra2103/wireviewfrontend1#installation
 
-10.**[Node.js](https://nodejs.org/):**
-   - Node.js is a runtime environment that allows the execution of JavaScript code on the server-side. It is designed for building scalable and high-performance network applications, making it a popular choice for server-side development.
+For setting up the server and API reference, checkout the following readme file👇
+https://github.com/hiteshmishra2103/wireviewserver/tree/4e3578ae05d025110a8fa776eaf3ff3fc933cfa8#installation
 
-11.**[bcryptjs](https://www.npmjs.com/package/bcryptjs):**
-   - Bcryptjs is a library for hashing passwords in Node.js applications. It uses the bcrypt hashing algorithm to securely store user passwords by transforming them into a fixed-length hash that is computationally expensive to reverse.
-
-12.**[jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken):**
-   - Jsonwebtoken is a Node.js library for creating and verifying JSON Web Tokens (JWT). JWTs are used for securely transmitting information between parties and are commonly employed for authentication and authorization in web applications.
 
 
 <h1>Screenshots</h1>
