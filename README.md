@@ -1,6 +1,6 @@
 <img width="100%" alt="wireview-home-page" src="https://github.com/hiteshmishra2103/wireviewfrontend1/assets/66027081/9adfd4c6-aaf6-44a6-bb84-64b903fb8cab" >
 
-## Wireview: Online Shop for Local Goods
+## Wireview
 
 Wireview is an ecommerce store that is helpful for stores, shops which have less online visibility. I helps them by showcasing and selling their products on the website, providing them with a valuable online presence. Currently, local businesses encounter challenges due to **limited visibility** on the internet for marketing their goods. Additionally, customers ordering from other websites often face significant delays in order processing which can be found in nearby stores. Wireview addresses these issues by streamlining the process, efficiently connecting customers with nearby stores, and thereby reducing the time needed to discover and successfully obtain products from the sellers. 
 
