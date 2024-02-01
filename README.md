@@ -51,20 +51,6 @@ Checkout whenever you're ready with a smooth and hassle-free process.
 
 Tools and Technologies used:
 
-* **[Next.js](https://nextjs.org/)**
-* **[React](https://reactjs.org/)**
-* **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
-* **[Recoiljs](https://recoiljs.org/)**
-* **[Tailwind CSS](https://tailwindcss.com/)**
-* **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)**
-* **[Cloudinary](https://cloudinary.com/)**
-* **[Nodejs](https://nodejs.org/)**
-* **[Expressjs](https://expressjs.com/)**
-* **[Monogdb](https://www.mongodb.com/)**
-* **[Mongoose](https://mongoosejs.com/)**
-* **[Bcryptjs](https://www.npmjs.com/package/bcryptjs)**
-* **[Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)**
-* 
 1. **[Next.js](https://nextjs.org/):**
    - Next.js is a React-based web application framework that enables the creation of server-rendered and statically generated websites. It simplifies the development of React applications by providing features like automatic code splitting, server-side rendering, and a streamlined development experience.
 
