@@ -2,13 +2,18 @@
 
 ## Wireview
 
+See the Live website at: https://wireviewfrontend1.vercel.app/
+
 Wireview is an ecommerce store that is helpful for stores, shops which have less online visibility. I helps them by showcasing and selling their products on the website, providing them with a valuable online presence. Currently, local businesses encounter challenges due to **limited visibility** on the internet for marketing their goods. Additionally, customers ordering from other websites often face significant delays in order processing which can be found in nearby stores. Wireview addresses these issues by streamlining the process, efficiently connecting customers with nearby stores, and thereby reducing the time needed to discover and successfully obtain products from the sellers. 
 
 As of now, dummy products have been added to demonstrate the functionality of the store.
 
 I deployed this website on Vercel for the frontend and Cyclic.sh for the server. 
 
+
 The design is inspired by **[Shopify's Woodstock](https://themes.shopify.com/themes/woodstock/styles/light)** theme.
+
+Features:
 
 ### Payments with Stripe:
 I have used stripe for secure payments in my website.
@@ -16,6 +21,10 @@ Say goodbye to payment hassles and enjoy smooth transactions every time.
 
 ![paymentdesktop](https://github.com/hiteshmishra2103/wireview/assets/66027081/f3ca7435-9fd5-490c-9f4c-b8e7c69d691a)
 
+
+### Authentication
+
+I have added authentication to my website, new users can signup if they are new to the platform and then login to store the items in cart, ordering the prducts and seeing their order history.Utilizing libraries such as bcryptjs for secure password hashing and jsonwebtoken for generating and validating authentication tokens, Wireview ensures that user data remains confidential and protected.
 
 ### Command Center Dashboard for Admin:
 Admin can see what's happening in their store at a glance.
