@@ -72,6 +72,9 @@ Tools and Technologies used:
 * **[Mongoose](https://mongoosejs.com/)**
 * **[Bcryptjs](https://www.npmjs.com/package/bcryptjs)**
 * **[Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)**
+* **Version Control: Git and GitHub**
+* **API Testing: Postman**
+* IDE:VS Code
 
 ## Installation
 
