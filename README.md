@@ -13,6 +13,57 @@ I deployed this website on Vercel for the frontend and Cyclic.sh for the server.
 
 The design is inspired by **[Shopify's Woodstock](https://themes.shopify.com/themes/woodstock/styles/light)** theme.
 
+## Installation
+
+<h3>Prerequisites</h3>
+
+Before you begin, make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+
+1. Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/hiteshmishra2103/wireview.git
+```
+2. Navigate to the project directory
+```bash 
+cd wireview
+```
+
+3. Run the command
+```bash
+git submodule update --init --recursive
+```
+
+Now for setting up the frontend on your local machine I have created the installation and setup guide.Checkout the link below👇
+https://github.com/hiteshmishra2103/wireviewfrontend1#installation
+
+For setting up the server and API reference, checkout the following readme file👇
+https://github.com/hiteshmishra2103/wireviewserver/tree/4e3578ae05d025110a8fa776eaf3ff3fc933cfa8#installation
+
+
+## Tools and Technologies used:
+
+* **[Next.js](https://nextjs.org/)**
+* **[React](https://reactjs.org/)**
+* **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
+* **[Recoiljs](https://recoiljs.org/)**
+* **[Tailwind CSS](https://tailwindcss.com/)**
+* **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)**
+* **[Cloudinary](https://cloudinary.com/)**
+* **[Nodejs](https://nodejs.org/)**
+* **[Expressjs](https://expressjs.com/)**
+* **[Monogdb](https://www.mongodb.com/)**
+* **[Mongoose](https://mongoosejs.com/)**
+* **[Bcryptjs](https://www.npmjs.com/package/bcryptjs)**
+* **[Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)**
+* **Version Control: Git and GitHub**
+* **API Testing: Postman**
+* IDE:VS Code
+
 ## Features:
 
 ### Authentication
@@ -55,58 +106,6 @@ Take your time exploring the store knowing your picks are safely waiting for you
 Checkout whenever you're ready with a smooth and hassle-free process.
 
 ![cartdesktop](https://github.com/hiteshmishra2103/wireview/assets/66027081/5d60e0f2-5daa-404f-82b7-b8bf58c70fbb)
-
-
-Tools and Technologies used:
-
-* **[Next.js](https://nextjs.org/)**
-* **[React](https://reactjs.org/)**
-* **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
-* **[Recoiljs](https://recoiljs.org/)**
-* **[Tailwind CSS](https://tailwindcss.com/)**
-* **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)**
-* **[Cloudinary](https://cloudinary.com/)**
-* **[Nodejs](https://nodejs.org/)**
-* **[Expressjs](https://expressjs.com/)**
-* **[Monogdb](https://www.mongodb.com/)**
-* **[Mongoose](https://mongoosejs.com/)**
-* **[Bcryptjs](https://www.npmjs.com/package/bcryptjs)**
-* **[Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)**
-* **Version Control: Git and GitHub**
-* **API Testing: Postman**
-* IDE:VS Code
-
-## Installation
-
-<h3>Prerequisites</h3>
-
-Before you begin, make sure you have the following installed:
-
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
-- [MongoDB](https://www.mongodb.com/)
-
-1. Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/hiteshmishra2103/wireview.git
-```
-2. Navigate to the project directory
-```bash 
-cd wireview
-```
-
-3. Run the command
-```bash
-git submodule update --init --recursive
-```
-
-Now for setting up the frontend on your local machine I have created the installation and setup guide.Checkout the link below👇
-https://github.com/hiteshmishra2103/wireviewfrontend1#installation
-
-For setting up the server and API reference, checkout the following readme file👇
-https://github.com/hiteshmishra2103/wireviewserver/tree/4e3578ae05d025110a8fa776eaf3ff3fc933cfa8#installation
-
 
 
 <h1>Screenshots</h1>
