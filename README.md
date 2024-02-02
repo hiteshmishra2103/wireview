@@ -13,7 +13,11 @@ I deployed this website on Vercel for the frontend and Cyclic.sh for the server.
 
 The design is inspired by **[Shopify's Woodstock](https://themes.shopify.com/themes/woodstock/styles/light)** theme.
 
-Features:
+## Features:
+
+### Authentication
+
+I have added authentication to my website, new users can signup if they are new to the platform and then login to store the items in cart, ordering the prducts and seeing their order history.Utilizing libraries such as bcryptjs for secure password hashing and jsonwebtoken for generating and validating authentication tokens, Wireview ensures that user data remains confidential and protected.
 
 ### Payments with Stripe:
 I have used stripe for secure payments in my website.
@@ -21,10 +25,6 @@ Say goodbye to payment hassles and enjoy smooth transactions every time.
 
 ![paymentdesktop](https://github.com/hiteshmishra2103/wireview/assets/66027081/f3ca7435-9fd5-490c-9f4c-b8e7c69d691a)
 
-
-### Authentication
-
-I have added authentication to my website, new users can signup if they are new to the platform and then login to store the items in cart, ordering the prducts and seeing their order history.Utilizing libraries such as bcryptjs for secure password hashing and jsonwebtoken for generating and validating authentication tokens, Wireview ensures that user data remains confidential and protected.
 
 ### Command Center Dashboard for Admin:
 Admin can see what's happening in their store at a glance.
